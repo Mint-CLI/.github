@@ -1,12 +1,5 @@
-## Hi there 👋
+# ⚠️ATTENTION!⚠️
 
-<!--
+I, [cuxdi](github.com/cuxdi), is discontinuing Mint. This was a project to work on for fun, and to learn about the terminal command prompt. This essentially is a copy of [scoop](https://scoop.sh). But I got really tired, and this project was too much for me. I worked day and night only to make such little progress. This was to be some neat liitle thing to show people at a developers coference, but I'm stopping it.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+View all of the code I had before I stopped this: https://github.com/Mint-CLI/everything
